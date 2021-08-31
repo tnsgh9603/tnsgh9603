@@ -17,9 +17,16 @@
 ## Skills
 
 
+<br></br>
 <details markdown="1">
+<summary><strong>:octocat: GitHub Stats</strong></summary>
+<br/>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=songbae&show_icons=true&theme=dracula&count_private=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=songbae&hide=css,java,html,asp&theme=dracula&langs_count=4">
+</p>
 
-### Language
+  ### Language
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 - <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/> 
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
@@ -48,8 +55,10 @@
 - <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"> 
 - <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"> 
 - Gather
-
 </details>
+
+
+
 
 ## Study
 
