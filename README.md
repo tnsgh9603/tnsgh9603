@@ -29,6 +29,8 @@ About Visitors
 ---
 About github stats
 
+http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)
+
 
 [![tnsgh9603's github stats](https://github-readme-stats.vercel.app/api?username=tnsgh9603)](https://github.com/tnsgh9603/github-readme-stats)
 
