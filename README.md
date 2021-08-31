@@ -16,7 +16,7 @@ About Me
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnsgh9603&langs_count=10&layout=compact&theme=dark)](https://github.com/tnsgh9603)
 
 
-- <img src="https://img.shields.io/badge/C-172B4D?style=flat&logo=C&logoColor=white"/>
+- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 - <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/> 
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
