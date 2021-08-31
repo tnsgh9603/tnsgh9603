@@ -21,12 +21,12 @@
 - <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> 
 
 
-## Site
+## Study
 
 
-[Tech Blog](https://blog.naver.com/tnsgh9603)
+[Tech Blog(PS)](https://blog.naver.com/tnsgh9603)
 
-[Notion](https://prairie-tourmaline-da7.notion.site/01e5c9093c184c118c261076d6b3538d)
+[Notion(ML)](https://prairie-tourmaline-da7.notion.site/01e5c9093c184c118c261076d6b3538d)
 
 ---
 About Visitors
