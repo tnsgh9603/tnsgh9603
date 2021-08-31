@@ -33,6 +33,7 @@ http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link
 
 [![tnsgh9603's github stats](https://github-readme-stats.vercel.app/api?username=tnsgh9603)](https://github.com/tnsgh9603/github-readme-stats)
 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 ---
 About PS(BOJ)
