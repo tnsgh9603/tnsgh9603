@@ -53,15 +53,16 @@
 
 </details>
 
-
-
-
 ## Study
 
 
 - [Tech Blog(PS)](https://blog.naver.com/tnsgh9603)
 
+- [solved.ac](https://solved.ac/profile/tnsgh9603)
+
 - [Notion(ML)](https://prairie-tourmaline-da7.notion.site/01e5c9093c184c118c261076d6b3538d)
+
+
 
 ---
 ## Stats
@@ -78,4 +79,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnsgh9603&langs_count=10&layout=compact&theme=dark)](https://github.com/tnsgh9603)
 
-
+- 
