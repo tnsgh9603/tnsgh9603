@@ -6,12 +6,11 @@
 * A beginner who wants to be a machine engineer. 
 * I am interested in PS, ML.
 * I like to apply what I have learned to real life.
-
+* Who feels more comfortable with NLogN than N^2
 
 
 # Skills
           
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnsgh9603&langs_count=10&layout=compact&theme=dark)](https://github.com/tnsgh9603)
 
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 - <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/> 
@@ -34,7 +33,7 @@ About Visitors
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftnsgh9603&count_bg=%2379C83D&title_bg=%23D54040&icon=visualstudio.svg&icon_color=%23A100F9&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
-About github stats
+### stats
 
 http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123
 
@@ -45,6 +44,8 @@ http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link
 ---
 About PS(BOJ)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnsgh9603&langs_count=10&layout=compact&theme=dark)](https://github.com/tnsgh9603)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=tnsgh9603)](https://github.com/tnsgh9603)
