@@ -1,4 +1,4 @@
-### Welcome to my github! 👋
+# Welcome to my github! 👋
 ---
 ## About Me
 
@@ -9,7 +9,7 @@
 * Who feels more comfortable with NLogN than N^2
 
 
-# Skills
+## Skills
           
 
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
@@ -21,7 +21,7 @@
 - <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> 
 
 
-# Site
+## Site
 
 
 [Tech Blog](https://blog.naver.com/tnsgh9603)
@@ -33,7 +33,7 @@ About Visitors
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftnsgh9603&count_bg=%2379C83D&title_bg=%23D54040&icon=visualstudio.svg&icon_color=%23A100F9&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
-### Stats
+## Stats
 
 http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123
 
