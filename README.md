@@ -19,11 +19,9 @@
 
 <br></br>
 <details markdown="1">
-<summary><strong>:octocat: GitHub Stats</strong></summary>
+<summary><strong>:octocat: Summary </strong></summary>
 <br/>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=songbae&show_icons=true&theme=dracula&count_private=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=songbae&hide=css,java,html,asp&theme=dracula&langs_count=4">
 </p>
 
   ### Language
