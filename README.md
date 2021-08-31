@@ -1,5 +1,13 @@
 ### Welcome to my github! 👋
 ---
+About Me
+
+* KPU, CE, junior.
+
+* I am interested in PS, ML.
+
+* A beginner who wants to be a machine engineer. 
+
 # Study
 
 
