@@ -23,6 +23,11 @@
 - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"> 
+- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> 
+- <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"> 
+- <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"> 
+
+
 
 ## Study
 
