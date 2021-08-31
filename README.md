@@ -25,6 +25,9 @@
 
 ### IDE
 
+- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"> 
+- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"> 
+- <img src="https://img.shields.io/badge/Pycharm-007ACC?style=flat&logo=Pycharm&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"> 
 
 ### Collaboration Tools
@@ -33,7 +36,7 @@
 - <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"> 
-
+- <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=Zoom&logoColor=white"> 
 
 
 ## Study
