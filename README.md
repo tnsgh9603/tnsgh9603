@@ -1,4 +1,7 @@
 # Welcome to my Github! 👋
+
+I'm not good enough, but I'll do my best.
+
 ## About Me
 
 * KPU, CE, junior.
