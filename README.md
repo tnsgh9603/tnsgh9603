@@ -1,9 +1,8 @@
 ### Welcome to my github! 👋
 ---
-About Me
+## About Me
 
 * KPU, CE, junior.
-
 * A beginner who wants to be a machine engineer. 
 * I am interested in PS, ML.
 * I like to apply what I have learned to real life.
