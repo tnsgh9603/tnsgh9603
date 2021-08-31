@@ -11,7 +11,7 @@ About Me
 # Skills
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Android-00599C?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-00599C?style=flat-square/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnsgh9603&langs_count=10&layout=compact&theme=dark)](https://github.com/tnsgh9603)
 
 
