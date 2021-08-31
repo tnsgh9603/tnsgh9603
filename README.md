@@ -2,6 +2,7 @@ Welcome to my github! 👋
 ---
 Note
 [Naver Blog](https://blog.naver.com/tnsgh9603)
+
 [Notion](https://prairie-tourmaline-da7.notion.site/01e5c9093c184c118c261076d6b3538d)
 
 ---
