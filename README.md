@@ -1,4 +1,4 @@
-![wallpapertip_anime-nature-wallpaper_468766](https://user-images.githubusercontent.com/74086829/131536735-b7622799-5116-4d0b-aaa8-8d0fd7216e60.jpg)
+![computercat](https://user-images.githubusercontent.com/74086829/131536901-cd5d6a04-ba17-4f76-939e-ba7b253a1c5a.jpg)
 
 # Welcome to my Github! 👋
 
