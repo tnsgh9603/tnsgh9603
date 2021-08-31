@@ -24,9 +24,9 @@
 ## Study
 
 
-[Tech Blog(PS)](https://blog.naver.com/tnsgh9603)
+- [Tech Blog(PS)](https://blog.naver.com/tnsgh9603)
 
-[Notion(ML)](https://prairie-tourmaline-da7.notion.site/01e5c9093c184c118c261076d6b3538d)
+- [Notion(ML)](https://prairie-tourmaline-da7.notion.site/01e5c9093c184c118c261076d6b3538d)
 
 ---
 ## Stats
