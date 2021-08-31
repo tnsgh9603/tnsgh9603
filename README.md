@@ -2,7 +2,6 @@
 Git 입니다 ^^7
 
 <!--
-**tnsgh9603/tnsgh9603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
