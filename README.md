@@ -4,7 +4,7 @@
 
 * KPU, CE, junior.
 * A beginner who wants to be a Machine Engineer. 
-* I am Interested in PS, ML.
+* I am interested in PS, ML.
 * Likes to apply what I have learned to real life.
 * Who feels more comfortable with NLogN than N^2
 
