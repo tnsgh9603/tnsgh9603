@@ -4,9 +4,11 @@ About Me
 
 * KPU, CE, junior.
 
-* I am interested in PS, ML.
-
 * A beginner who wants to be a machine engineer. 
+* I am interested in PS, ML.
+* I like to apply what I have learned to real life.
+
+
 
 # Skills
           
