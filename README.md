@@ -17,7 +17,7 @@
 ## Skills
 <br></br>
 <details markdown="1">
-<summary><strong> Summary </strong></summary>
+<summary>Summary</summary>
 <br/>
 <p align = "center">
 </p>
