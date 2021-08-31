@@ -11,7 +11,7 @@
 
 ## Skills
           
-
+### Language
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 - <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/> 
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
@@ -22,10 +22,17 @@
 - <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> 
 - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"> 
+
+### IDE
+
 - <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"> 
+
+### Collaboration Tools
+
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"> 
+- <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"> 
 
 
 
