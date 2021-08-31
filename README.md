@@ -1,4 +1,4 @@
-![computercat](https://user-images.githubusercontent.com/74086829/131536901-cd5d6a04-ba17-4f76-939e-ba7b253a1c5a.jpg)
+![lt2](https://user-images.githubusercontent.com/74086829/131537045-2990aeda-87ef-42ec-bdc5-e6402def2b34.gif)
 
 # Welcome to my Github! 👋
 
