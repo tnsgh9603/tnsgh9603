@@ -9,7 +9,9 @@ About Me
 * A beginner who wants to be a machine engineer. 
 
 # Skills
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Android-00599C?style=flat-square&logo=Android&logoColor=white"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnsgh9603&langs_count=10&layout=compact&theme=dark)](https://github.com/tnsgh9603)
 
 
@@ -33,7 +35,6 @@ http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link
 
 [![tnsgh9603's github stats](https://github-readme-stats.vercel.app/api?username=tnsgh9603)](https://github.com/tnsgh9603/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 ---
 About PS(BOJ)
