@@ -16,11 +16,12 @@
 - <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/> 
 - <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=0095D5&logoColor=white"> 
+- <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin5&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">
 - <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> 
 - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
+- <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"> 
 
 ## Study
 
