@@ -17,7 +17,7 @@
 ## Skills
 <br></br>
 <details markdown="1">
-<summary><strong>:octocat: Summary </strong></summary>
+<summary><strong> Summary </strong></summary>
 <br/>
 <p align = "center">
 </p>
