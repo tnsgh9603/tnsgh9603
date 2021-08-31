@@ -14,7 +14,7 @@ About Me
 
 
 
-# Study
+# Site
 
 
 [Naver Blog](https://blog.naver.com/tnsgh9603)
@@ -24,8 +24,7 @@ About Me
 ---
 About Visitors
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftnsgh9603&count_bg=%2379C83D&title_bg=%23555555&icon=visualstudio.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftnsgh9603&count_bg=%2379C83D&title_bg=%23D54040&icon=visualstudio.svg&icon_color=%23A100F9&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 About github stats
 
