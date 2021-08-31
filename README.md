@@ -1,5 +1,4 @@
 # Welcome to my Github! 👋
-
 ## About Me
 
 * KPU, CE, junior.
