@@ -8,7 +8,7 @@
 * A beginner who wants to be a Machine Engineer. 
 * I am interested in PS, ML.
 * Likes to apply what I have learned to real life.
-* Who feels more comfortable with NLogN than N^2
+* Who feels more comfortable with O(NLogN) than O(N^2)
 
 
 ## Skills
