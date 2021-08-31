@@ -2,7 +2,7 @@
 
 Welcome to my github!
 ---
-[NAVER](https://naver.com "링크 설명(title))
+[Blog](https://blog.naver.com/tnsgh9603)
 
 
 ---
