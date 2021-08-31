@@ -1,6 +1,6 @@
 Welcome to my github! 👋
 ---
-Note
+# Study
 
 
 [Naver Blog](https://blog.naver.com/tnsgh9603)
