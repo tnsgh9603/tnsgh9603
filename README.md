@@ -1,6 +1,3 @@
-
-![lt2](https://user-images.githubusercontent.com/74086829/131537045-2990aeda-87ef-42ec-bdc5-e6402def2b34.gif)
-
 # Welcome to my Github! 👋
 
 > **I'm not good enough, but I'll do my best.**
