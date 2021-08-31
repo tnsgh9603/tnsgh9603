@@ -27,8 +27,7 @@
 
 - <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"> 
-- <img src="https://img.shields.io/badge/Pycharm-007ACC?style=flat&logo=Pycharm&logoColor=white"> 
-- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"> 
+- <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white"> 
 
 ### Collaboration Tools
 
