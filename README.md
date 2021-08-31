@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!  src="https://emojis.slackmojis.com/emojis/images/1613364825/12945/twinkle_stars.gif?1613364825" width="30"/><!--<img %20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=thx%204%20visiting!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!👋%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=thx%204%20visiting!&descAlignY=51&descAlign=62)
 > **I'm not good enough, but I'll do my best.**
 
 ![다운로드](https://user-images.githubusercontent.com/74086829/131537186-5e5589cc-4114-4bb6-b56b-61635b7a0101.gif)
