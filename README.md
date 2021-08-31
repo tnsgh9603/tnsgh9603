@@ -1,6 +1,8 @@
 # Welcome to my Github! 👋
 
 > **I'm not good enough, but I'll do my best.**
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=tnsgh9603)](https://github.com/tnsgh9603)
 
 ## About Me
 
@@ -66,5 +68,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnsgh9603&langs_count=10&layout=compact&theme=dark)](https://github.com/tnsgh9603)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=tnsgh9603)](https://github.com/tnsgh9603)
+
