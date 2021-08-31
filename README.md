@@ -8,6 +8,12 @@ About Me
 
 * A beginner who wants to be a machine engineer. 
 
+# Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnsgh9603&langs_count=10&layout=compact&theme=dark)](https://github.com/tnsgh9603)
+
+
+
 # Study
 
 
