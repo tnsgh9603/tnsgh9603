@@ -22,13 +22,13 @@
 - <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
 - <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"> 
-
+- <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
+- 
 ### IDE
 
 - <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white"> 
-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
 
 ### Collaboration Tools
 
