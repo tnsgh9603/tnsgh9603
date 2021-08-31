@@ -1,4 +1,5 @@
 ### Hi there 👋
+Git 입니다 ^^7
 
 <!--
 **tnsgh9603/tnsgh9603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![tnsgh9603's github stats](https://github-readme-stats.vercel.app/api?username=tnsgh9603)](https://github.com/tnsgh9603/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=tnsgh9603)](https://github.com/tnsgh9603)
