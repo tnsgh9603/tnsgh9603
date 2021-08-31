@@ -41,7 +41,7 @@
 - <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"> 
-- <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter Notebook&logoColor=white"> 
+- <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"> 
 
 ### Collaboration Tools
 
