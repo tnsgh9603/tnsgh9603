@@ -29,10 +29,6 @@
 [Notion(ML)](https://prairie-tourmaline-da7.notion.site/01e5c9093c184c118c261076d6b3538d)
 
 ---
-About Visitors
-
-
----
 ## Stats
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftnsgh9603&count_bg=%2379C83D&title_bg=%23D54040&icon=visualstudio.svg&icon_color=%23A100F9&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
