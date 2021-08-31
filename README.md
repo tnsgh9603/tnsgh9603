@@ -17,7 +17,7 @@
 ## Skills
 
 
-<details markdown="1">
+<detail markdown="1">
 
 ### Language
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
@@ -49,7 +49,7 @@
 - <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"> 
 - Gather
 
-</details>
+</detail>
 
 ## Study
 
