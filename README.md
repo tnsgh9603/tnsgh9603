@@ -6,7 +6,7 @@
 ## About Me
 
 * KPU, CE, junior.
-* A beginner who wants to be a Machine Engineer. 
+* A beginner who wants to be a AI Engineer. 
 * Currently interested in ML.
 * Passionate about Problem Solving.
 * Likes to apply what I have learned to real life.
