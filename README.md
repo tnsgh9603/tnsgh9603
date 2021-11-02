@@ -62,7 +62,7 @@
 
 - [solved.ac](https://solved.ac/profile/tnsgh9603)
 
-- [Notion(ML)](https://prairie-tourmaline-da7.notion.site/01e5c9093c184c118c261076d6b3538d)
+- [Notion(ML)](https://tnsgh9603.notion.site/About-Me-feb1416f50ca43f786fb88e97fe4d866)
 
 
 
