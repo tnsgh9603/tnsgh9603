@@ -9,6 +9,7 @@
 * Currently interested in ML.
 * Passionate about Problem Solving.
 * Likes to apply what I have learned to real life.
+* participated in the ICPC2021 finals
 * Who feels more comfortable with O(NLogN) than O(N^2)
 * Codeit 6th Completionist
 * Contact me to <a href="mailto:tnsgh9603@naver.com"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link="/></a>
