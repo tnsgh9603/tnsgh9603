@@ -13,7 +13,7 @@
 * Who feels more comfortable with O(NLogN) than O(N^2)
 * Codeit 6th Completionist
 * Contact me to <a href="mailto:tnsgh9603@naver.com"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link="/></a>
-* [portfolio](https://tnsgh9603.notion.site/About-Me-feb1416f50ca43f786fb88e97fe4d866)
+* [Portfolio](https://tnsgh9603.notion.site/About-Me-feb1416f50ca43f786fb88e97fe4d866)
 
 ## Skills
 
