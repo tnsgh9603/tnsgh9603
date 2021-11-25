@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!👋%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=thx%204%20visiting!&descAlignY=51&descAlign=62)
-> **I'm not good enough, but I'll do my best.**
+> **I always move forward.**
 
 ![다운로드](https://user-images.githubusercontent.com/74086829/131537186-5e5589cc-4114-4bb6-b56b-61635b7a0101.gif)
 ## About Me
@@ -75,7 +75,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=tnsgh9603)](https://github.com/tnsgh9603)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={tnsgh9603}&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tnsgh9603&theme=warm)
 
 [![tnsgh9603's github stats](https://github-readme-stats.vercel.app/api?username=tnsgh9603)](https://github.com/tnsgh9603/github-readme-stats)
 
