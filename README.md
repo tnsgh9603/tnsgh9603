@@ -63,7 +63,7 @@
 
 - [solved.ac](https://solved.ac/profile/tnsgh9603)
 
-- [Notion(ML)](https://tnsgh9603.notion.site/About-Me-feb1416f50ca43f786fb88e97fe4d866)
+- [Notion(ML)](https://tnsgh9603.notion.site/BoostCamp-Pre-Course-bc06ec3d33364c6aa2c6f7cbdb8b83ae)
 
 
 
