@@ -14,7 +14,7 @@
 * Naver BoostCamp AI Tech 3rd Camper
 * The one who completed Samsung SDS Special lecture
 * Contact me to <a href="mailto:tnsgh9603@naver.com"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link="/></a>
- 
+  
 ## Skills
 
 <details markdown="1">
