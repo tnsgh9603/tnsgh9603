@@ -5,6 +5,7 @@
 ## [About Me](https://tnsgh9603.notion.site/About-Me-feb1416f50ca43f786fb88e97fe4d866) <-- Click!
 
 
+
 * TUK, CE, Leave of absence after 3rd year.
 * A beginner who wants to be a AI Engineer. 
 * Currently interested in ML.
