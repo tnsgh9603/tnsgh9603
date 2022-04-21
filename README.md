@@ -4,7 +4,6 @@
 ![다운로드](https://user-images.githubusercontent.com/74086829/131537186-5e5589cc-4114-4bb6-b56b-61635b7a0101.gif)
 ## [About Me](https://tnsgh9603.notion.site/About-Me-feb1416f50ca43f786fb88e97fe4d866) <-- Click!
 
-
 * TUK, CE, Leave of absence after 3rd year.
 * A beginner who wants to be a AI Engineer. 
 * Currently interested in ML.
