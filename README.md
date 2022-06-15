@@ -74,7 +74,7 @@
 
 ![small](https://solvedac-readme-badge.herokuapp.com/api/v1/badge?user=tnsgh9603&theme=default&compact=1&size=large&use_shadow=1&)
 
-[![CodeForces 프로필](https://cp-badges.herokuapp.com/codeforces/tnsgh9603.svg)
+![CodeForces 프로필](https://cp-badges.herokuapp.com/codeforces/tnsgh9603.svg)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=tnsgh9603)](https://github.com/tnsgh9603)
 
