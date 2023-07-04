@@ -12,14 +12,14 @@
 
 ### 이력
 - ⚡️ 2023. 07 ~ / (주)엘리스 Technical Content Developer
-- ⚡️ 2023. 03 ~ / 강남 압구정 CIT 영재 코딩 학원 강사
+- ⚡️ 2023. 03 ~ 2023. 06 / 강남 압구정 CIT 영재 코딩 학원 강사
 - ⚡️ 2022. 06 ~ 2022. 08 / [알고리즘 퀴즈칩 3개월반](https://academy.elice.io/courses/32180/info) (온라인 코딩 교육 플랫폼 (주)엘리스 주관 알고리즘/코딩테스트 문제집 제작 참여 (총 90문항))
 
 #### 프로그래머스(Programmers)
 - ⚡️ 2022. 10 ~ 2022. 11 / [미니 프로젝트로 쉽게 배우는 C++ 기초](https://school.programmers.co.kr/learn/courses/15147/15147-%EA%B6%8C%EC%88%9C%ED%98%B8%EB%8B%98-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-c-%EA%B8%B0%EC%B4%88)
 
 #### 유데미(Udemy)
-- ⚡️ 2023. 03. 23 ~ / [C++ 초등학교](https://www.udemy.com/course/c-rahzxw/)
+- ⚡️ 2023. 03. 23 / [C++ 초등학교](https://www.udemy.com/course/c-rahzxw/)
 
 #### 검수진 활동
 
