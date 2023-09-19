@@ -1,4 +1,4 @@
-### Last Updated At 7.3
+### Last Updated At 23.07.03
 # 스스로의 발전을 고민하고 꾸준히 노력하는 권순호입니다! 👋
 
 ### 🚀 About Me
